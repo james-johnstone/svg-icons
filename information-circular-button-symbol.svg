@@ -1,0 +1,14 @@
+<svg id="information-circular-button-symbol" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.118 29.118">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Info" transform="translate(0)">
+    <g id="Group_261" data-name="Group 261">
+      <path id="Path_165" data-name="Path 165" class="cls-1" d="M14.559,7.279a1.82,1.82,0,1,0,1.82,1.82A1.821,1.821,0,0,0,14.559,7.279Zm0,5.46a1.82,1.82,0,0,0-1.82,1.82v5.46a1.82,1.82,0,0,0,3.64,0v-5.46A1.82,1.82,0,0,0,14.559,12.739ZM14.559,0A14.559,14.559,0,1,0,29.118,14.559,14.576,14.576,0,0,0,14.559,0Zm0,26.388A11.829,11.829,0,1,1,26.388,14.559,11.842,11.842,0,0,1,14.559,26.388Z" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>
